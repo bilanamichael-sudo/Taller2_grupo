@@ -1,10 +1,10 @@
 :root {
-  --market-green: #234d35;
-  --market-green-dark: #16331f;
-  --market-cream: #f7f2e7;
-  --market-tomato: #c1440e;
-  --market-yellow: #f0b429;
-  --market-ink: #2b2b26;
+  --market-green: #1e3a8a;      
+  --market-green-dark: #0f172a; 
+  --market-cream: #f8fafc;      
+  --market-tomato: #f97316;     
+  --market-yellow: #38bdf8;   
+  --market-ink: #1e293b;        
   --radius-card: 14px;
 }
 
