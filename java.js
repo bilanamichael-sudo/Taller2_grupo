@@ -1,10 +1,3 @@
-/* =========================================================
-   MINIMERCADO LOS ANDES — lógica de la interfaz
-   - Catálogo de productos
-   - Búsqueda por nombre
-   - Filtro por categoría (pasillo)
-   - Carrito de compras persistente (localStorage)
-   ========================================================= */
 
 // ----- 1. CATÁLOGO DE PRODUCTOS -----
 const PRODUCTS = [
