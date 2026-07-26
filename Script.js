@@ -1,5 +1,5 @@
 
-// ----- 1. CATÁLOGO DE PRODUCTOS -----
+// ----- 1. catalogo de productos
 const PRODUCTS = [
   { id: 1,  name: "Tomate riñón",        unit: "libra",   price: 0.75, emoji: "🍅", category: "frutas",    stock: 40 },
   { id: 2,  name: "Manzana roja",        unit: "libra",   price: 0.90, emoji: "🍎", category: "frutas",    stock: 35 },
